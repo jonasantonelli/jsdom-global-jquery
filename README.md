@@ -1,4 +1,4 @@
-# jsdom-global
+# jsdom-global-jquery
 
 > Enables DOM with jQuery in Node.js
 
