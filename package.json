@@ -1,6 +1,6 @@
 {
   "name": "jsdom-global-jquery",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Enable DOM with jQuery in Node.js",
   "main": "jsdom-global-jquery.js",
   "repository": {
